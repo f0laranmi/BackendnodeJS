@@ -1,0 +1,10 @@
+MVC- 
+MODELS
+VIEWS /ROUTER: Defines the url the user needs to access our resources.
+CONTROLLER: A file that writes all of the functions that is needed for our code to work properly
+
+model (data) ---> controllers (functions) ----> router (url) ----> main file(index.js)
+
+
+process.env.VARIABLE_NAME
+process.env.MONGO_URI
